@@ -14,7 +14,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 1. **Clone repositori ini**:
    ```sh
-   git clone https://github.com/username/landing-page.git
+   git clone https://github.com/username/landing-page.git](https://github.com/alghifaryAR/landing-page.git
 Masuk ke direktori proyek:
 
 cd landing-page
