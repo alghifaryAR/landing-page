@@ -14,15 +14,18 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 1. **Clone repositori ini**:
    ```sh
-   git clone https://github.com/AlghifaryAR/landing-page.git
+   git clone https://github.com/alghifaryAR/landing-page.git
 Masuk ke direktori proyek:
 
 cd landing-page
 
+
 ## Install dependensi:
 
-#npm install
+# npm install
+meninginstall node_modules
+
 Jalankan aplikasi:
 
-#npm start
+# npm start
 Aplikasi akan berjalan di http://localhost:3000.
