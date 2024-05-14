@@ -1,11 +1,15 @@
-# Getting Started with Create React App
+# Mulai dengan Bikin React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyek ini dibikin pake [Create React App](https://github.com/facebook/create-react-app).
 
-In the project directory, you can run:
+## Instalasi
+
+Di folder proyek, kamu bisa jalanin:
+
+### `npm install`
+install node modules nya
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-tes
+Nyalain aplikasi dalam mode pengembang.\
+Buka [http://localhost:3000](http://localhost:3000) buat liat di browser.
