@@ -22,10 +22,9 @@ cd landing-page
 
 ## Install dependensi:
 
-### npm install
-meninginstall node_modules
+## npm install
+
 
 Jalankan aplikasi:
-
-### npm start
+## npm start
 Aplikasi akan berjalan di http://localhost:3000.
